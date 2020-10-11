@@ -1,0 +1,78 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+}
+.bmi-wrapper{
+  width: 60%;
+  margin: 20px auto;
+  padding: 20px;
+  height: auto;
+  background-color: yellow;
+}
+h2{
+  background-color: red;
+  color: #fff;
+  font-size: 30px;
+  padding: 20px;
+  margin-top: 0;
+}
+.bmi-wrapper h3{
+  font-size: 20px;
+  text-align: center;
+}
+.btn{
+  margin-top: 30px;
+  background-color: red;
+  font-size: 18px;
+  color: #fff;
+  padding: 4px 8px;
+  border: 0;
+  border-radius: 5px;
+}
+.form-wrapper{
+  width: 85%;
+  margin: 20px auto;
+}
+.input{
+  /* border: 1px solid; */
+  padding: 20px;
+}
+.form-group{
+  margin-top: 25px;
+}
+.form-group input{
+  padding: 5px;
+  width: 300px;
+}
+.form-group label{
+  margin-right: 20px;
+  font-size: 18px;
+}
+.f-size{
+  font-size: 20px;
+}
+.ft-size{
+  font-size: 18px;
+}
+.border{
+  border: 1px solid;
+}
+.d-flex{
+  flex-wrap: wrap;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+}
+.txt-center{
+  text-align: center
+}
+.footer{
+  background-color: red;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  margin-bottom: 0;
+  color: #fff;
+}
